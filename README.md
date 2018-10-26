@@ -4,13 +4,13 @@
 ## Introduction
 Following scenarios present problems that can be solved as system of equations, while performing substitutions and eliminations as we saw in the previous lesson. 
 
-* Solve these problems by hand, showing all the steps to work out the unknown variable values. 
-* Verify your answers by showing the calculated values satisfy all equations. 
+* Solve these problems by hand, showing all the steps to work out the unknown variable values 
+* Verify your answers by showing the calculated values satisfy all equations
 
 ## Objectives
 You will be able to:
-* Describe a system of linear equations for solving simple analytical problems.
-* Solve a system of equations using elimination and substitution.
+* Describe a system of linear equations for solving simple analytical problems
+* Solve a system of equations using elimination and substitution
 
 ## Exercise 1
 #### Joe paid 12 dollars for 4 cups of coffee and 4 cups of tea. 3 cups of coffee cost as much as 2 cups of tea. 
