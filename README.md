@@ -8,6 +8,7 @@ Following scenarios present problems that can be solved as system of equations, 
 * Verify your answers by showing the calculated values satisfy all equations. 
 
 ## Objectives
+You will be able to:
 * Describe a system of linear equations for solving simple analytical problems.
 * Solve a system of equations using elimination and substitution.
 
