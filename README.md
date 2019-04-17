@@ -2,21 +2,21 @@
 # Systems of Linear Equations - Quiz
 
 ## Introduction
-Following scenarios present problems that can be solved as system of equations, while performing substitutions and eliminations as we saw in the previous lesson. 
+The following scenarios present problems that can be solved as system of equations, while performing substitutions and eliminations as you saw in the previous lesson. 
 
-* Solve these problems by hand, showing all the steps to work out the unknown variable values. 
-* Verify your answers by showing the calculated values satisfy all equations. 
+* Solve these problems by hand, showing all the steps to work out the unknown variable values 
+* Verify your answers by showing the calculated values satisfy all equations
 
 ## Objectives
-* Describe a system of linear equations for solving simple analytical problems.
-* Solve a system of equations using elimination and substitution.
+You will be able to:
+* Describe a system of linear equations for solving simple analytical problems
+* Solve a system of equations using elimination and substitution
 
 ## Exercise 1
-#### Joe paid 12 dollars for 4 cups of coffee and 4 cups of tea. 3 cups of coffee cost as much as 2 cups of tea. 
+Jane paid 12 dollars for 4 cups of coffee and 4 cups of tea. 3 cups of coffee cost as much as 2 cups of tea. What would be the total cost of 5 cups of coffee and 5 cups of tea?
 
-#### What would be the total cost of 5 cups of coffee and 5 cups of tea ?
 
-## Solution
+### Solution
 
 > Let x be the unit price of coffee and y be the unit price of tea
 
@@ -24,7 +24,7 @@ Following scenarios present problems that can be solved as system of equations, 
 
 3x -2y = 0 - B
 
-* From (A): 
+* From (A):
 
 x = 3-y
 
@@ -58,11 +58,11 @@ x = (12-7.2)/4
 
 ## Exercise 2
 
-#### Jim has more money than Bob.  If Jim gave Bob 20 dollars , they would have the same amount.  While if Bob gave Jim 22 dollars, Jim would then have twice as much as Bob. 
+Jim has more money than Bob. If Jim gave Bob 20 dollars, they would have the same amount. If Bob gave Jim 22 dollars, however, Jim would then have twice as much as Bob. 
 
-#### How much does each one actually have?
+How much does each one actually have?
 
-## Solution
+### Solution
 > Let x be the amount of money that Jim has and y be the amount that Bob has.
 
 * If Jim gave Bob $20, they would have the same amount.
@@ -92,10 +92,10 @@ x = 106 + 40
 
 ## Exercise 3
 
-#### Mia has 30 coins, consisting of quarters (25 cents) and dimes (10 cents), which total to the amount 5.70 dollars.  
-#### How many of each does she have?
+Mia has 30 coins, consisting of quarters (25 cents) and dimes (10 cents), which totals to the amount 5.70 dollars.  
+How many of each does she have?
 
-## Solution
+### Solution
 >Let x be the number of quarters and y be the number of dimes.
 
 The equations are:
@@ -129,4 +129,4 @@ For more pratice with linear equations, Visit following links for more complex e
 * https://www.transum.org/software/SW/Starter_of_the_day/Students/Simultaneous_Equations.asp?Level=7
 
 ## Summary
-In this lesson, we saw how to solve linear equations by hand to find the co-efficient values. We shall now move forward to have a deeper look into vectors and matrices and how Python and Numpy can help us solve more complex equations in an analytical context. 
+In this lesson, you learned how to solve linear equations by hand to find the co-efficient values. You'll now move forward to have a deeper look into vectors and matrices and how Python and Numpy can help us solve more complex equations in an analytical context. 
