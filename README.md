@@ -43,6 +43,8 @@ How much does each one actually have?
 Mia has 30 coins, consisting of quarters (25 cents) and dimes (10 cents), which totals to the amount 5.70 dollars.  
 How many of each does she have?
 
+### Solution
+
 
 ```python
 # Your solution here 
