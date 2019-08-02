@@ -22,6 +22,7 @@ Jane paid 12 dollars for 4 cups of coffee and 4 cups of tea. 3 cups of coffee co
 
 ```python
 # Your solution here 
+# Answer: 5 cups of tea and 5 cups of coffee = 15 dollars
 ```
 
 ## Exercise 2
@@ -36,6 +37,9 @@ How much does each one actually have?
 
 ```python
 # Your solution here 
+# Answer:
+# y = 106 (Bob's amount)
+# x = 146 (Jim's amount)
 ```
 
 ## Exercise 3
@@ -45,9 +49,14 @@ How many of each does she have?
 
 ### Solution
 
+> Let x be the number of quarters and y be the number of dimes.
+
 
 ```python
 # Your solution here 
+# Answer:
+# x = 18 quarters
+# y = 12 dimes
 ```
 
 ## Level up - Optional 
