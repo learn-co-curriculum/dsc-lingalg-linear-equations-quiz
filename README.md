@@ -2,7 +2,7 @@
 # Systems of Linear Equations - Quiz
 
 ## Introduction
-The following scenarios present problems that can be solved as system of equations, while performing substitutions and eliminations as you saw in the previous lesson. 
+The following scenarios present problems that can be solved as a system of equations while performing substitutions and eliminations as you saw in the previous lesson.
 
 * Solve these problems by hand, showing all the steps to work out the unknown variable values 
 * Verify your answers by showing the calculated values satisfy all equations
@@ -60,7 +60,7 @@ How many of each does she have?
 ```
 
 ## Level up - Optional 
-For more pratice with linear equations, Visit following links for more complex equations and online answers verification:
+For more practice with linear equations, Visit following links for more complex equations and online answers verification:
 
 * https://www.transum.org/software/SW/Starter_of_the_day/Students/Simultaneous_Equations.asp?Level=6
 * https://www.transum.org/software/SW/Starter_of_the_day/Students/Simultaneous_Equations.asp?Level=7
