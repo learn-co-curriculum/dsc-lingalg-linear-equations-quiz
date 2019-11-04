@@ -1,5 +1,5 @@
 
-# Systems of Linear Equations - Quiz
+# Systems of Linear Equations - Lab
 
 ## Introduction
 The following scenarios present problems that can be solved as a system of equations while performing substitutions and eliminations as you saw in the previous lesson.
@@ -8,9 +8,10 @@ The following scenarios present problems that can be solved as a system of equat
 * Verify your answers by showing the calculated values satisfy all equations
 
 ## Objectives
-You will be able to:
-* Describe a system of linear equations for solving simple analytical problems
-* Solve a system of equations using elimination and substitution
+
+In this lab you will: 
+
+- Solve a system of equations using elimination and substitution
 
 ## Exercise 1
 Jane paid 12 dollars for 4 cups of coffee and 4 cups of tea. 3 cups of coffee cost as much as 2 cups of tea. What would be the total cost of 5 cups of coffee and 5 cups of tea?
@@ -69,7 +70,7 @@ Jim has more money than Bob. If Jim gave Bob 20 dollars, they would have the sam
 How much does each one actually have?
 
 ### Solution
-> Let x be the amount of money that Jim has and y be the amount that Bob has.
+> Let x be the amount of money that Jim has and y be the amount that Bob has 
 
 
 ```python
@@ -92,7 +93,7 @@ From (1)
 x = y + 40 (3)
 
 Substitute x in (2)
-y + 40 + 22	= 2(y − 22)
+y + 40 + 22 = 2(y − 22)
 
 y = 106 (Bob's amount)
 
@@ -110,7 +111,7 @@ How many of each does she have?
 
 ### Solution
 
-> Let x be the number of quarters and y be the number of dimes.
+> Let x be the number of quarters and y be the number of dimes 
 
 
 ```python
@@ -143,11 +144,12 @@ y = 30 − 18 = 12
 """
 ```
 
-## Level up - Optional 
-For more practice with linear equations, Visit following links for more complex equations and online answers verification:
+## Level up (Optional)
+For more practice with linear equations, visit the following links for more complex equations:
 
 * https://www.transum.org/software/SW/Starter_of_the_day/Students/Simultaneous_Equations.asp?Level=6
 * https://www.transum.org/software/SW/Starter_of_the_day/Students/Simultaneous_Equations.asp?Level=7
 
 ## Summary
-In this lesson, you learned how to solve linear equations by hand to find the co-efficient values. You'll now move forward to have a deeper look into vectors and matrices and how Python and Numpy can help us solve more complex equations in an analytical context. 
+
+In this lesson, you learned how to solve linear equations by hand to find the coefficient values. You'll now move forward to have a deeper look into vectors and matrices and how Python and NumPy can help us solve more complex equations in an analytical context. 
