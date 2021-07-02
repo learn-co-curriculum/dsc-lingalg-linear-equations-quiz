@@ -33,7 +33,7 @@ x = 3-y
 Substituting y in (B):
 3(3-y) - 2y = 0
 
-9 - 3y - 2y = 6
+9 - 3y - 2y = 0
 
 y = 9/5 = 1.8
 
